@@ -67,8 +67,7 @@ const Projects = ({ clientHeight }) => {
             My Works
           </h1>
           <h2 className="text-2xl md:max-w-3xl w-full seq max-w-sm mt-2">
-            I have contributed in over 20+ projects ranging from Frontend
-            development, UI/UX design, Open Source, and Motion Graphics
+          For over a decade, I have worked in a variety of roles. ranging from  E-commerce Development, Wordpress Development, Digital Content Design, and Motion Graphics
           </h2>
         </div>
         <div

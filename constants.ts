@@ -29,29 +29,28 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "I design and develop Digital things",
-  "I develop modern frontend apps",
-  "I design dynamic user experience",
-  "I design and develop motion",
+  "I'm an energetic tech enthusiast",
+  "Who likes solving technical problems.",
+  "I Provide Digital Solution & experience",
+  "I Design and develop Digital Things ",
 ];
 
 export const EMAIL = "on2digitalbd@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
+  linkedin: "https://www.linkedin.com/in/hasan-mahmud-ontu-a361b9169/",
+  github: "https://github.com/antuhasan/",
+  medium: "https://on2digital.medium.com/",
   instagram: "https://www.instagram.com/i.am.on2/",
   facebook: "https://www.facebook.com/hardlocker",
-  twitter: "https://twitter.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
+  dribbble: "https://dribbble.com/on2digital",
+  behance: "https://www.behance.net/on2digital/",
 };
 
 export const PROJECTS = [
   {
-    name: "myOKR Website",
-    image: "/projects/myokr.jpg",
+    name: "ReaderBD E-commerce Website",
+    image: "/projects/readerbd.jpg",
     blurImage: "/projects/blur/myokr-blur.jpg",
     description: "Marketing site for OKR Platform by huminos",
     gradient: ["#153BB9", "#0E2C8B"],
@@ -127,7 +126,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/bdc18-blur.jpg",
     description: "Built the portal from zero to production 🚀",
     gradient: ["#470700", "#712A23"],
-    url: "https://bdc2018.ayushsingh.net/",
+    url: "https://bdc2018.`singh.net/",
     tech: ["javascript", "html", "css"],
   },
   {

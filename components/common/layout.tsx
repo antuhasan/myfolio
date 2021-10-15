@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
         <meta property="og:site_name" content={METADATA.title} />
         <meta
           property="og:image"
-          content="https://www.ayushsingh.net/preview.jpg"
+          content="https://www.on2digital.xyz/preview.jpg"
         />
         <meta property="og:image:secure_url" content={METADATA.siteUrl} />
         <meta property="og:image:width" content="1440" />

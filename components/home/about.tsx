@@ -64,16 +64,15 @@ const About = ({ clientHeight }) => {
           className="font-medium text-3xl sm:text-4xl md:text-6xl"
         >
           <span className="about-1 leading-tight">
-            A passionate UI Engineer who bridges the gap between designers and
-            developers.{" "}
+          ON2 — a digital designer and developer who creates things with computers, Digital Craftsman best describes my skill set {" "}
           </span>
           <span className="about-2 leading-tight">
-            Takes responsibility to craft a good user experience using modern
-            frontend architecture.{" "}
+            I am passionate
+about communications and strive to push the boundaries, achieving
+high results through all aspects of my professional life.{" "}
           </span>
           <span className="about-3 leading-tight">
-            Also, a fitness enthusiast with longest streak of 1300+ days in a
-            row.
+          I've worked in creative studios, digital agencies and as a freelancer for over ten years.
           </span>
         </h1>
       </div>
